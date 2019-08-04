@@ -16,6 +16,7 @@ Sublime text 3 settings files
 		"file": "config/Python/Main.sublime-menu"
 	}
 ```
+
 5. Настройки Anaconda:
 ```json
 	{
@@ -35,6 +36,7 @@ Sublime text 3 settings files
 		"disable_anaconda_completion": false,
 	}
 ```
+
 6. Настройки Sublime text:
 ```json
 	{
@@ -47,4 +49,10 @@ Sublime text 3 settings files
 		"theme": "Adaptive.sublime-theme"
 	}
 ```
+
 7. Установить пакет __BracketGuard__;
+
+---
+
+8. Настройки VIM - Скопировать [содержимое](./.vimrc) в `~/.vimrc`
+
